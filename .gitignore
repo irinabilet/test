@@ -1,0 +1,10 @@
+.idea/
+target
+test-output
+*.iml
+
+/target/
+/allure-report/**/*
+/allure-report
+/.allure
+/**/.allure
